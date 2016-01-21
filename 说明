@@ -1,0 +1,4 @@
+游戏开始时默认为浏览模式，请按下N键，开始驾驶模式。
+ocean_part是我们的波浪部分。详细请参考报告。
+obj目录里面包括了用到的obj文件，texture目录包含了用到的texture文件，MyWorld中为用到的源代码。
+Product中为生成的可执行文件，注意，由于平台原因，如果出现无法载入文件（如OBJ，BMP文件等，请将源代码中MyWorld.cpp和Skybox.h中的路径/Users/jason/Downloads/MyWorld全部替换为您计算机中工程的绝对路径，并重新编译。）更加具体的说明请见报告。
